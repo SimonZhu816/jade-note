@@ -1,1 +1,1 @@
-# DecisionIntelligence
+# study notes
